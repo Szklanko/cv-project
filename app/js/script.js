@@ -1,3 +1,14 @@
+//Zadanie na studia
+
+//1.Dane tekstowe: mają być wprowadzane do CV z poziomu kodu JS (w HTML tworzymy tylko szablon dokumentu z przygotowanym miejscami np. na imię i nazwisko, natomiast wpisujemy je dopiero w kodzie JS).
+//2.Dane innego rodzaju: zdjęcie (jego źródło wpisywane jest z poziomu kodu JS), odnośnik (adres wpisywany w kodzie JS), etc.
+//3.Lista: dane wyświetlane w postaci listy (wypunktowanej lub numerowanej) wprowadzane w kodzie JS na podstawie javascriptowej tablicy (Array).
+//4.Tabela: jest tworzona lub wypełniana danymi z poziomu kodu JS.
+//5.Formularz: w kodzie JS sprawdzamy czy obowiązkowe pola (imię, nazwisko i adres email) zostały uzupełnione, a jeśli dane są poprawne, potwierdzamy akceptację danych, wyświetlając zawartość formularza w dowolny sposób (np. pod formularzem lub w konsoli).
+//6.Pewne części dokumentu CV (np. formularz kontaktowy) są schowane i zostają odsłonięte na życzenie (po naciśnięciu przycisku), a następnie mogą znów zostać ukryte
+
+
+
 
 //tekst do NAGŁÓWKÓW H1 i HEADERA + LOGO
 
